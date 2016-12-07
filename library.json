@@ -4,7 +4,7 @@
     "description": "OpenAg driver for the MH-Z19 CO2 sensor",
     "repository": {
         "type": "git",
-        "url": "https://github.com/KhalladB/openag_mhz19"
+        "url": "https://github.com/KhalladB/openag_mhz19.git"
     },
     "frameworks": "arduino",
     "platforms": "*",
